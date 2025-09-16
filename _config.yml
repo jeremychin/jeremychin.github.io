@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: Jeremy Chin's Corner
+description: Hi, I'm Jeremy Chin—a software developer and engineering manager passionate about building thoughtful, scalable solutions. This site is where I share my journey in tech, from hands-on coding to leading development teams. Whether you're here to explore my past projects, read insights on software development, or just curious about what I'm working on, I'm glad you stopped by.
 
-url: https://long-haul.netlify.app
+url: https://jeremychin.github.io
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
@@ -27,15 +27,11 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
+    github: https://jeremychin.github.io    
+    email: jeremy.chin@gmail.com
+    linkedin: https://www.linkedin.com/in/chinjeremy/
 
-google_analytics: "UA-58263416-1"
+# google_analytics: ""
 
-disqus:
-    shortname: brianmaierjr
+# disqus:
+#    shortname: brianmaierjr
