@@ -1,12 +1,12 @@
 {
-  "name": "long-haul",
+  "name": "jeremy-chin",
   "version": "0.0.0",
-  "description": "A minimal, type-focused Jekyll theme. ",
+  "description": "Jeremy Chin's personal website",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Maier Jr.",
+  "author": "Jeremy Chin",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^3.0.2",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brianmaierjr/long-haul.git"
+    "url": "https://github.com/jeremychin/jeremychin.github.io.git"
   },
   "keywords": [
     "jekyll",
