@@ -27,9 +27,9 @@ navigation:
       url: /contact
 
 social:
-    github: https://jeremychin.github.io    
+    github: jeremychin   
     email: jeremy.chin@gmail.com
-    linkedin: https://www.linkedin.com/in/chinjeremy/
+    linkedin: chinjeremy
 
 # google_analytics: ""
 
